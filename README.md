@@ -1,4 +1,4 @@
-# unitconvertor
+# unitconverter
 
 A new Flutter application.
 This app make by help of udacity basic flutter tutorial and i would thanks udacity which helps to  making this app.
@@ -22,4 +22,4 @@ here you goes direct udacity github link
 -https://github.com/flutter/udacity-course/tree/master/unit_converter
 
 Udacity flutter program
--https://classroom.udacity.com/courses/ud905
+-https://classroom.udacity.com/courses/
