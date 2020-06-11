@@ -1,6 +1,9 @@
 # unitconvertor
 
 A new Flutter application.
+This app make by help of udacity basic flutter tutorial and i would thanks udacity which helps to  making this app.
+full credit to this app for udacity.
+here you goes direct udacity github link-https://github.com/flutter/udacity-course/tree/master/unit_converter
 
 ## Getting Started
 
