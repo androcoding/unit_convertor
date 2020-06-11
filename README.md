@@ -22,4 +22,4 @@ here you goes direct udacity github link
 -https://github.com/flutter/udacity-course/tree/master/unit_converter
 
 Udacity flutter program
--https://classroom.udacity.com/courses/
+-https://classroom.udacity.com/courses
